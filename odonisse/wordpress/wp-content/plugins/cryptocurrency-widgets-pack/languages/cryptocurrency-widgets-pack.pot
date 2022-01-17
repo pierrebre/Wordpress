@@ -1,0 +1,717 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cryptocurrency Widgets Pack v1.5\n"
+"POT-Creation-Date: 2020-08-28 16:17+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Blocksera <admin@blocksera.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cryptocurrency-widgets-pack.php:418
+msgctxt "Post Type General Name"
+msgid "Cryptocurrency Widgets Pack"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:419
+msgctxt "Post Type Singular Name"
+msgid "Cryptocurrency Widgets Pack"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:420
+msgid "Crypto Widgets"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:421
+msgid "Post Type"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:422
+msgid "Widget Archives"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:423
+msgid "Widget Attributes"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:424
+msgid "Parent Widget:"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:425
+msgid "All Widgets"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:426
+msgid "Add New Crypto Widget"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:427
+msgid "Add New"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:428
+msgid "New Widget"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:429
+msgid "Edit Widget"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:430
+msgid "View Widget"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:431
+msgid "View Widgets"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:432
+msgid "Search Widget"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:433
+msgid "Not found"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:434
+msgid "Not found in Trash"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:435
+msgid "Featured Image"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:436
+msgid "Set featured image"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:437
+msgid "Remove featured image"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:438
+msgid "Use as featured image"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:439
+msgid "Insert into widget"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:440
+msgid "Uploaded to this widget"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:441
+msgid "Widgets list"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:442
+msgid "Widgets list navigation"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:443
+msgid "Filter widgets list"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:446
+msgid "Cryptocurrency Widgets Pack"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:447
+msgid "Post Type Description"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:494
+msgid ""
+"Enjoying our <strong>Cryptocurrency Widgets Pack?</strong> We hope you "
+"liked it! If you feel this plugin helped you, You can give us a 5 star "
+"rating!<br>It will motivate us to serve you more !"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:495
+msgid "Rate the Plugin!"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:496 cryptocurrency-widgets-pack.php:507
+msgid "Go Pro"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:497
+msgid "Already Done"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:505
+msgid "Add Widgets"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:506
+msgid "FAQ"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:519
+msgid "Support"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:528
+msgid "Upgrade To PRO - Massive Cryptocurrency Widgets"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:529
+msgid "Upgrade to PRO&nbsp;&nbsp;&#x27a4;"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:544
+msgid "Shortcode"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:545 includes/mcwp-settings.php:21
+msgid "Widget Type"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:565
+msgid "Cryptocurrency Widgets Pack Settings"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:566
+msgid "Crypto Widgets Shortcode"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:567
+msgid "Rate the Plugin & Pro Features"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:573
+msgid "Plugin Rating:"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:583
+msgid ""
+"Did Cryptocurrency Widgets Pack help you out? Please leave us a 5 star "
+"review.<br/>Thank you!"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:584
+msgid "Write a Review"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:586
+msgid "Massive Cryptocurrency Widgets | Crypto Plugin"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:589
+msgid "5,000+ Cryptocurrencies"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:590
+msgid "Powered by Coingecko"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:591
+msgid "Stylish crypto widgets"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:592 cryptocurrency-widgets-pack.php:615
+msgid "Feature-rich widget editor"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:593 cryptocurrency-widgets-pack.php:616
+msgid "Unlimited customizations"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:596
+msgid "Coinpress - Cryptocurrency Pages for WordPress"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:599
+msgid "5,000+ Coin detail pages"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:600
+msgid "Search, Currency Changer, Watchlist"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:601
+msgid "Line & Candlestick charts"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:602
+msgid "Historical Data & Markets"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:603
+msgid "Social Feed & Comments"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:604
+msgid "News section & Responsive Design"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:607
+msgid "Massive Stock Market & Forex Widgets"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:610
+msgid "Global stock exchanges"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:611
+msgid "Powered by Yahoo API"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:612
+msgid "Up to 100,000 companies list"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:613
+msgid "Powerful search option"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:614
+msgid "Stylish widgets"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:625
+msgid "Paste this shortcode anywhere like page, post or widgets"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:628
+msgid "Create 5,000+ coin pages instantly"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:811
+msgid "Name"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:811 includes/mcwp-premium.php:26
+msgid "Price"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:811
+msgid "Market Cap"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:811
+msgid "Change"
+msgstr ""
+
+#: cryptocurrency-widgets-pack.php:811
+msgid "Price Graph (24h)"
+msgstr ""
+
+#: includes/duplicate.php:104
+msgid "Duplicate this item"
+msgstr ""
+
+#: includes/duplicate.php:104
+msgid "Duplicate"
+msgstr ""
+
+#: includes/mcwp-premium.php:7
+msgid "Massive Cryptocurrency Widgets"
+msgstr ""
+
+#: includes/mcwp-premium.php:8
+msgid "Upgrade"
+msgstr ""
+
+#: includes/mcwp-premium.php:8
+msgid "plugin within a minute and unlock many features now!!!"
+msgstr ""
+
+#: includes/mcwp-premium.php:20
+msgid "Free"
+msgstr ""
+
+#: includes/mcwp-premium.php:21
+msgid "Pro"
+msgstr ""
+
+#: includes/mcwp-premium.php:21
+msgid "Recommended"
+msgstr ""
+
+#: includes/mcwp-premium.php:32
+msgid "Unlimited Cryptocurrencies"
+msgstr ""
+
+#: includes/mcwp-premium.php:33
+msgid ""
+"More than 5,000 cryptocurrencies available and new currencies are added "
+"automatically"
+msgstr ""
+
+#: includes/mcwp-premium.php:40
+msgid "Modern Layout"
+msgstr ""
+
+#: includes/mcwp-premium.php:41
+msgid ""
+"Supports modern layouts which are compatible with most OS, browsers and "
+"mobile devices"
+msgstr ""
+
+#: includes/mcwp-premium.php:48
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/mcwp-premium.php:49
+msgid "Shortcode can be easily copied and pasted anywhere on your site"
+msgstr ""
+
+#: includes/mcwp-premium.php:56
+msgid "Auto Ticker Enable"
+msgstr ""
+
+#: includes/mcwp-premium.php:57
+msgid ""
+"Header, footer ticker showed on site, shortcode does not need to be placed"
+msgstr ""
+
+#: includes/mcwp-premium.php:64
+msgid "Preview"
+msgstr ""
+
+#: includes/mcwp-premium.php:65
+msgid "Widget preview is shown on the right side while editing"
+msgstr ""
+
+#: includes/mcwp-premium.php:72
+msgid "Feature Rich Admin Panel"
+msgstr ""
+
+#: includes/mcwp-premium.php:73
+msgid ""
+"Customized admin panel to provide a feature-rich experience to create "
+"widgets without any complexity"
+msgstr ""
+
+#: includes/mcwp-premium.php:80 includes/mcwp-settings.php:107
+msgid "Ticker Speed"
+msgstr ""
+
+#: includes/mcwp-premium.php:81
+msgid "Ticker speed can be controlled easily"
+msgstr ""
+
+#: includes/mcwp-premium.php:88
+msgid "Real Time Price Update"
+msgstr ""
+
+#: includes/mcwp-premium.php:89
+msgid "Real time can be enabled or disabled for any widget"
+msgstr ""
+
+#: includes/mcwp-premium.php:96
+msgid "Unlimited Fiat Currencies"
+msgstr ""
+
+#: includes/mcwp-premium.php:97
+msgid "150+ fiat currency change options for all widgets"
+msgstr ""
+
+#: includes/mcwp-premium.php:104
+msgid "Number Of Themes"
+msgstr ""
+
+#: includes/mcwp-premium.php:105
+msgid "Beautiful default themes available for all widgets"
+msgstr ""
+
+#: includes/mcwp-premium.php:112
+msgid "Top/Unlimited Coins"
+msgstr ""
+
+#: includes/mcwp-premium.php:113
+msgid ""
+"Coins - option to select top 100, 300 coins or all coins, also with remove "
+"option to reselect again"
+msgstr ""
+
+#: includes/mcwp-premium.php:120
+msgid "Customize All Colors"
+msgstr ""
+
+#: includes/mcwp-premium.php:121
+msgid "Custom text and background colors for all widgets"
+msgstr ""
+
+#: includes/mcwp-premium.php:128
+msgid "Price Formats"
+msgstr ""
+
+#: includes/mcwp-premium.php:129
+msgid "Price format option for all widgets"
+msgstr ""
+
+#: includes/mcwp-premium.php:136
+msgid "Ticker Display Options"
+msgstr ""
+
+#: includes/mcwp-premium.php:137
+msgid ""
+"Display options - 24h change, 24h volume enable/disable, rounded corners"
+msgstr ""
+
+#: includes/mcwp-premium.php:144
+msgid "Table Styles"
+msgstr ""
+
+#: includes/mcwp-premium.php:145
+msgid "Table styles like light, dark, gloss, custom are available"
+msgstr ""
+
+#: includes/mcwp-premium.php:152
+msgid "Pagination"
+msgstr ""
+
+#: includes/mcwp-premium.php:153
+msgid ""
+"Table row length to control no. of coins shown when the page loads. "
+"Pagination created automatically to view all coins by row length"
+msgstr ""
+
+#: includes/mcwp-premium.php:160
+msgid "Link coin pages to the table"
+msgstr ""
+
+#: includes/mcwp-premium.php:161
+msgid "Create any particular coin pages and link it to tables"
+msgstr ""
+
+#: includes/mcwp-premium.php:168
+msgid "Charts View"
+msgstr ""
+
+#: includes/mcwp-premium.php:169
+msgid ""
+"Two type of option for chart view - line chart and candlestick which "
+"includes price and volume in charts with the customized color option on "
+"admin panel"
+msgstr ""
+
+#: includes/mcwp-premium.php:176
+msgid "Chart Options"
+msgstr ""
+
+#: includes/mcwp-premium.php:177
+msgid ""
+"Chart features - smooth, non-smooth edges, Theme - light and dark, Chart "
+"View - 1 day, 1 week, 1 month, 3 months, 6 months, 1 year"
+msgstr ""
+
+#: includes/mcwp-premium.php:184
+msgid "Card & Label Designs"
+msgstr ""
+
+#: includes/mcwp-premium.php:185
+msgid ""
+"Card widgets, labels provides default six and three types of designs "
+"respectively"
+msgstr ""
+
+#: includes/mcwp-premium.php:192
+msgid "Card Display Options"
+msgstr ""
+
+#: includes/mcwp-premium.php:193
+msgid "Cards, labels support full width option as well as round corners"
+msgstr ""
+
+#: includes/mcwp-premium.php:200
+msgid "All Rounder Converter"
+msgstr ""
+
+#: includes/mcwp-premium.php:201
+msgid ""
+"Converter available with four types: crypto to fiat, fiat to crypto, crypto "
+"to crypto, fiat to fiat"
+msgstr ""
+
+#: includes/mcwp-premium.php:208
+msgid "Auto/Manual Converter"
+msgstr ""
+
+#: includes/mcwp-premium.php:209
+msgid ""
+"Manual convert button can be added if the automatic conversion is not "
+"preferred"
+msgstr ""
+
+#: includes/mcwp-premium.php:216
+msgid "List Widgets"
+msgstr ""
+
+#: includes/mcwp-premium.php:217
+msgid "Three Beautiful designs with animated spark line charts"
+msgstr ""
+
+#: includes/mcwp-premium.php:224
+msgid "Box Widgets"
+msgstr ""
+
+#: includes/mcwp-premium.php:225
+msgid "Five Beautiful designs with animated spark line charts"
+msgstr ""
+
+#: includes/mcwp-premium.php:232
+msgid "Text Widgets"
+msgstr ""
+
+#: includes/mcwp-premium.php:233
+msgid ""
+"Add cryptocurrency data anywhere in articles, sidebars, etc., with static "
+"shortcodes"
+msgstr ""
+
+#: includes/mcwp-premium.php:240
+msgid "Changelly Widgets"
+msgstr ""
+
+#: includes/mcwp-premium.php:241
+msgid ""
+"Embed changelly widgets to your site for buy/sell and earn commissions on "
+"transaction fees up to 50%"
+msgstr ""
+
+#: includes/mcwp-premium.php:248
+msgid "News Widgets"
+msgstr ""
+
+#: includes/mcwp-premium.php:249
+msgid ""
+"Add latest crypto news on your site with our elegant and responsive widgets"
+msgstr ""
+
+#: includes/mcwp-premium.php:258
+msgid "Installed"
+msgstr ""
+
+#: includes/mcwp-premium.php:264
+msgid "Upgrade Now"
+msgstr ""
+
+#: includes/mcwp-settings.php:11
+msgid "Widget Title"
+msgstr ""
+
+#: includes/mcwp-settings.php:25
+msgid "Ticker"
+msgstr ""
+
+#: includes/mcwp-settings.php:28
+msgid "Table"
+msgstr ""
+
+#: includes/mcwp-settings.php:31
+msgid "Card"
+msgstr ""
+
+#: includes/mcwp-settings.php:34
+msgid "Label"
+msgstr ""
+
+#: includes/mcwp-settings.php:42
+msgid "Coins"
+msgstr ""
+
+#: includes/mcwp-settings.php:42
+msgid "Clear"
+msgstr ""
+
+#: includes/mcwp-settings.php:45 includes/mcwp-settings.php:46
+msgid "Select a Cryptocurrency Coin"
+msgstr ""
+
+#: includes/mcwp-settings.php:58
+msgid "or show top"
+msgstr ""
+
+#: includes/mcwp-settings.php:67
+msgid "coins"
+msgstr ""
+
+#: includes/mcwp-settings.php:73
+msgid ""
+"Thank you for installing our plugin. We hope you will like it very much. "
+"Would you rate this plugin 5 stars? It will help us a lot !!!"
+msgstr ""
+
+#: includes/mcwp-settings.php:75
+msgid "I'll Rate Later"
+msgstr ""
+
+#: includes/mcwp-settings.php:76
+msgid "Sure, I'll Rate"
+msgstr ""
+
+#: includes/mcwp-settings.php:85
+msgid "Ticker Position"
+msgstr ""
+
+#: includes/mcwp-settings.php:116 includes/mcwp-settings.php:127
+#: includes/mcwp-settings.php:136
+msgid "Display Options"
+msgstr ""
+
+#: includes/mcwp-settings.php:120
+msgid "24h Change"
+msgstr ""
+
+#: includes/mcwp-settings.php:122 includes/mcwp-settings.php:131
+#: includes/mcwp-settings.php:142
+msgid "Link to Coingecko"
+msgstr ""
+
+#: includes/mcwp-settings.php:140
+msgid "Full Width"
+msgstr ""
+
+#: includes/mcwp-settings.php:147
+msgid "Custom Text Color"
+msgstr ""
+
+#: includes/mcwp-settings.php:155
+msgid "Custom Background Color"
+msgstr ""
+
+#: includes/mcwp-settings.php:163
+msgid "Add Custom CSS"
+msgstr ""
+
+#: includes/mcwp-settings.php:176 includes/mcwp-settings.php:228
+#: includes/mcwp-settings.php:235 includes/mcwp-settings.php:242
+#: includes/mcwp-settings.php:248 includes/mcwp-settings.php:254
+#: includes/mcwp-settings.php:260 includes/mcwp-settings.php:266
+#: includes/mcwp-settings.php:272 includes/mcwp-settings.php:278
+#: includes/mcwp-settings.php:284 includes/mcwp-settings.php:290
+#: includes/mcwp-settings.php:296 includes/mcwp-settings.php:302
+#: includes/mcwp-settings.php:308 includes/mcwp-settings.php:314
+#: includes/mcwp-settings.php:320 includes/mcwp-settings.php:326
+msgid "Available in Pro Version"
+msgstr ""
+
+#: includes/mcwp-settings.php:178
+msgid "More Widgets (Pro)"
+msgstr ""
+
+#: includes/mcwp-settings.php:332
+msgid "Publish or update to preview"
+msgstr ""

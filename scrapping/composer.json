@@ -1,0 +1,17 @@
+{
+    "name": "vpcrazypierre/scrapping",
+    "description": "Scrapping webpage",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    },
+    "authors": [
+        {
+            "name": "Pierre Barbé",
+            "email": "72824531+pierrebre@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

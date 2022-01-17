@@ -1,0 +1,90 @@
+Log created: 2021-04-14 10:34:21
+Type: backup
+[2021-04-14 10:34:29][notice]Start backing up.
+[2021-04-14 10:34:29][notice]server info fcgi:Off max execution time: 900 wp version:5.7 php version:7.3.5 db version:5.7.26 php ini:safe_mode: memory_limit:256M memory_get_usage:22,73 Mo memory_get_peak_usage:22,83 Mo extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2021-04-14 10:34:29][notice]Prepare to backup backup_db files.
+[2021-04-14 10:34:29][notice]Start exporting database.
+[2021-04-14 10:34:29][notice]max_allowed_packet less than 32M :1,00 Mo
+[2021-04-14 10:34:29][notice]Preparing to dump table wp_actionscheduler_actions
+[2021-04-14 10:34:29][notice]Preparing to dump table wp_actionscheduler_claims
+[2021-04-14 10:34:29][notice]Preparing to dump table wp_actionscheduler_groups
+[2021-04-14 10:34:29][notice]Preparing to dump table wp_actionscheduler_logs
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_ccpw_coins
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_commentmeta
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_comments
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_links
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_mcwp_coins
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_options
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_postmeta
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_posts
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_rank_math_internal_links
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_rank_math_internal_meta
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_term_relationships
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_term_taxonomy
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_termmeta
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_terms
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_usermeta
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_users
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_wpforms_tasks_meta
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_wpmailsmtp_tasks_meta
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_wprss_logs
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_wpvivid_scan_result
+[2021-04-14 10:34:30][notice]Preparing to dump table wp_wpvivid_unused_uploads_files
+[2021-04-14 10:34:30][notice]Exporting database finished.
+[2021-04-14 10:34:30][notice]Start compressing backup_db
+[2021-04-14 10:34:30][notice]Prepare to zip files. file: localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_db.zip
+[2021-04-14 10:34:30][notice]Adding zip files completed.localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_db.zip, filesize: 5,31 Mo
+[2021-04-14 10:34:30][notice]Compressing backup_db completed
+[2021-04-14 10:34:30][notice]Backing up backup_db completed.
+[2021-04-14 10:34:30][notice]Prepare to backup backup_themes files.
+[2021-04-14 10:34:30][notice]File number: 1801
+[2021-04-14 10:34:30][notice]Start compressing backup_themes
+[2021-04-14 10:34:32][notice]Prepare to zip files. file: localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_themes.zip
+[2021-04-14 10:34:53][notice]Adding zip files completed.localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_themes.zip, filesize: 35,83 Mo
+[2021-04-14 10:34:53][notice]Compressing backup_themes completed
+[2021-04-14 10:34:53][notice]Backing up backup_themes completed.
+[2021-04-14 10:34:55][notice]Prepare to backup backup_plugin files.
+[2021-04-14 10:34:55][notice]File number: 9318
+[2021-04-14 10:34:55][notice]Start compressing backup_plugin
+[2021-04-14 10:35:06][notice]Prepare to zip files. file: localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_plugin.zip
+[2021-04-14 10:35:43][notice]Adding zip files completed.localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_plugin.zip, filesize: 120,61 Mo
+[2021-04-14 10:35:43][notice]Compressing backup_plugin completed
+[2021-04-14 10:35:43][notice]Backing up backup_plugin completed.
+[2021-04-14 10:35:43][notice]Prepare to backup backup_uploads files.
+[2021-04-14 10:35:43][notice]File number: 192
+[2021-04-14 10:35:43][notice]Start compressing backup_uploads
+[2021-04-14 10:35:43][notice]Prepare to zip files. file: localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_uploads.zip
+[2021-04-14 10:35:43][notice]Adding zip files completed.localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_uploads.zip, filesize: 8,89 Mo
+[2021-04-14 10:35:43][notice]Compressing backup_uploads completed
+[2021-04-14 10:35:43][notice]Backing up backup_uploads completed.
+[2021-04-14 10:35:44][notice]Prepare to backup backup_content files.
+[2021-04-14 10:35:44][notice]File number: 109
+[2021-04-14 10:35:44][notice]Start compressing backup_content
+[2021-04-14 10:35:44][notice]Prepare to zip files. file: localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_content.zip
+[2021-04-14 10:35:44][notice]Adding zip files completed.localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_content.zip, filesize: 4,89 Mo
+[2021-04-14 10:35:44][notice]Compressing backup_content completed
+[2021-04-14 10:35:44][notice]Backing up backup_content completed.
+[2021-04-14 10:35:44][notice]Prepare to backup backup_core files.
+[2021-04-14 10:35:44][notice]File number: 1818
+[2021-04-14 10:35:44][notice]Start compressing backup_core
+[2021-04-14 10:35:45][notice]Prepare to zip files. file: localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_core.zip
+[2021-04-14 10:36:18][notice]Adding zip files completed.localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_core.zip, filesize: 43,87 Mo
+[2021-04-14 10:36:18][notice]Compressing backup_core completed
+[2021-04-14 10:36:18][notice]Backing up backup_core completed.
+[2021-04-14 10:36:18][notice]Prepare to backup backup_merge files.
+[2021-04-14 10:36:18][notice]File number: 6
+[2021-04-14 10:36:18][notice]Start compressing backup_merge
+[2021-04-14 10:36:19][notice]Prepare to zip files. file: localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_all.part001.zip
+[2021-04-14 10:36:27][notice]Adding zip files completed.localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_all.part001.zip, filesize: 58,12 Mo
+[2021-04-14 10:36:27][notice]Cleaned up file, filename: C:\wamp64\www\odonisse\wordpress/wp-content\wpvividbackups\localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_plugin.zip
+[2021-04-14 10:36:27][notice]Cleaned up file, filename: C:\wamp64\www\odonisse\wordpress/wp-content\wpvividbackups\localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_core.zip
+[2021-04-14 10:36:27][notice]Prepare to zip files. file: localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_all.part002.zip
+[2021-04-14 10:36:29][notice]Adding zip files completed.localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_all.part002.zip, filesize: 34,45 Mo
+[2021-04-14 10:36:29][notice]Cleaned up file, filename: C:\wamp64\www\odonisse\wordpress/wp-content\wpvividbackups\localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_themes.zip
+[2021-04-14 10:36:29][notice]Cleaned up file, filename: C:\wamp64\www\odonisse\wordpress/wp-content\wpvividbackups\localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_uploads.zip
+[2021-04-14 10:36:29][notice]Cleaned up file, filename: C:\wamp64\www\odonisse\wordpress/wp-content\wpvividbackups\localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_db.zip
+[2021-04-14 10:36:29][notice]Cleaned up file, filename: C:\wamp64\www\odonisse\wordpress/wp-content\wpvividbackups\localhost_odonisse_wordpress_wpvivid-6076c52d54efb_2021-04-14-12-34_backup_content.zip
+[2021-04-14 10:36:29][notice]Compressing backup_merge completed
+[2021-04-14 10:36:29][notice]Backing up backup_merge completed.
+[2021-04-14 10:36:29][notice]Backup completed.
+[2021-04-14 10:36:29][notice]Backup succeeded.
